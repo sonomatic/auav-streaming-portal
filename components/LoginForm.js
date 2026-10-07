@@ -146,7 +146,7 @@ export default function LoginForm() {
                 onClick={() => setForgotPassword(true)}
                 style={{ background: 'none', border: 'none', padding: 0, color: 'var(--auav-orange)', fontWeight: 600, cursor: 'pointer' }}
               >
-                Forgot password?
+                Forgot password (click here)?
               </button>
             </p>
           </>
