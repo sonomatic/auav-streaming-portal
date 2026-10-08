@@ -112,7 +112,7 @@ async function ClientsPageInner() {
     <div className="page-wrap">
       <div className="card">
         <h1>Clients</h1>
-        <p className="subtitle">Manage client companies and invite people to their portal here</p>
+        <p className="subtitle">Manage client companies and invite people to their portal here.</p>
         <ClientsManager
           companies={companies || []}
           clientsByCompany={clientsByCompany}
